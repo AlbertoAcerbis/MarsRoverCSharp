@@ -1,0 +1,17 @@
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\bin\Debug\netcoreapp2.1\MarsRover.Test.deps.json
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\bin\Debug\netcoreapp2.1\MarsRover.Test.runtimeconfig.json
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\bin\Debug\netcoreapp2.1\MarsRover.Test.runtimeconfig.dev.json
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\bin\Debug\netcoreapp2.1\MarsRover.Test.dll
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\bin\Debug\netcoreapp2.1\MarsRover.Test.pdb
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\bin\Debug\netcoreapp2.1\MarsRover.dll
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\bin\Debug\netcoreapp2.1\MarsRover.pdb
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\obj\Debug\netcoreapp2.1\MarsRover.Test.csprojAssemblyReference.cache
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\obj\Debug\netcoreapp2.1\MarsRover.Test.csproj.CoreCompileInputs.cache
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\obj\Debug\netcoreapp2.1\MarsRover.Test.AssemblyInfoInputs.cache
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\obj\Debug\netcoreapp2.1\MarsRover.Test.AssemblyInfo.cs
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\obj\Debug\netcoreapp2.1\MarsRover.Test.csproj.CopyComplete
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\obj\Debug\netcoreapp2.1\MarsRover.Test.dll
+C:\Sviluppo\Kata\MarsRover\MarsRover.Test\obj\Debug\netcoreapp2.1\MarsRover.Test.pdb
